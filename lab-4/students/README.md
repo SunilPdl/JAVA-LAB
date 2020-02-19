@@ -25,8 +25,8 @@ such as try,catch,throw,throws and finally.
 ### Try
 The codes which may cause exception are checkedin this block.
 	
-- If the code do cause exception it throws the exception to catch blocks
-- If the code doesnot cause exception it does nothing
+- If the code do cause exception it throws the exception to catch blocks.
+- If the code doesnot cause exception it does nothing.
 
 ### catch
 
@@ -34,17 +34,17 @@ The codes which may cause exception are checkedin this block.
 
 ### finally
 
-The code inside this block is executed no matter what, even when the method returns some values
+The code inside this block is executed no matter what, even when the method returns some values.
 
 ### throw
 
-- It throw's a specific exception manually
+- It throw's a specific exception manually.
 
 ### throws
 
-- It throw's multiple excpetions manually
-- It is written besides the method defination
-- If a method with throws exception is 
+- It throw's multiple excpetions manually.
+- It is written besides the method defination.
+- If a method with throws exception is used inside another method then the method also must throw the exception.
 
 
 
