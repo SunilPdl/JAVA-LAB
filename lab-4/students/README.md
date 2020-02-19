@@ -26,7 +26,6 @@ such as try,catch,throw,throws and finally.
 ### Try
 
 The codes which may cause exception are checked in this block.
-
 	* If the code do cause exception it throws the exception to catch blocks
 	* If the code doesnot cause exception it does nothing
 
