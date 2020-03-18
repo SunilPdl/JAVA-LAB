@@ -11,6 +11,7 @@ LAB. NO | NAME OF PROGRAM | LINK
 5 |File Handling   |[Lab-5](lab-5/README.md)
 6 |Applet  |[Lab-6](lab-6/README.md)
 7 | AWT |[Lab-7](lab-7/README.md)
+8 | Calculator and Dialog Box |[Lab-8](lab-8/README.md)
 
 
 ***This repo is for Java Lab Report***\
