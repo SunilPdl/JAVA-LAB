@@ -13,7 +13,7 @@ LAB. NO | NAME OF PROGRAM | LINK
 7 | AWT |[Lab-7](lab-7/README.md)
 8 | Calculator and Dialog Box |[Lab-8](lab-8/README.md)
 9 |  Image and Flag  |[Lab-9](lab-9/README.md)
-10 | Chat Demo and URL |[Lab-10](lab-10/REDAME.md)
+10 | Chat Demo and URL |[Lab-10](lab-10/README.md)
 
 
 ***This repo is for Java Lab Report***\
