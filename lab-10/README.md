@@ -6,10 +6,10 @@ The java.net package of the J2SE APIs contains a collection of classes and inter
 
 The java.net package provides support for the two common network protocols:−
 
-#### TCP
+### TCP:
  TCP stands for Transmission Control Protocol, which allows for reliable communication between two applications. TCP is typically used over the Internet Protocol, which is referred to as TCP/IP.
 
-#### UDP
+### UDP:
  UDP stands for User Datagram Protocol, a connection-less protocol that allows for packets of data to be transmitted between applications.
 
 This chapter gives a good understanding on the following two subjects −
