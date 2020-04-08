@@ -12,13 +12,6 @@ The java.net package provides support for the two common network protocols:−
 ### UDP:
  UDP stands for User Datagram Protocol, a connection-less protocol that allows for packets of data to be transmitted between applications.
 
-This chapter gives a good understanding on the following two subjects −
-
-## Socket Programming:
-
-This is the most widely used concept in Networking and it has been explained in very detail.
-
-## URL Processing:
 
 ### Socket Programming:
 
